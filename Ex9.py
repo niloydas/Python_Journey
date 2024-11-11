@@ -1,1 +1,0 @@
-givenNumber=12321
