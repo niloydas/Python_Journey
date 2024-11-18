@@ -1,1 +1,1 @@
-print("i am so cooked")
+print("i am not cooked if i study")
